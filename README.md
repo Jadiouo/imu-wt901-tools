@@ -47,3 +47,7 @@ python 3_realtime_viz_game.py --port COM3 --baud 9600 --pitch_th 10 --roll_th 10
 ```
 
 `3_realtime_viz_game.py` 若裝置本身有輸出四元數，可加 `--prefer_quat` 直接使用裝置姿態而非自行解算。
+
+## 授權
+
+MIT
