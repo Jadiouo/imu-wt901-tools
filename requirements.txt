@@ -1,0 +1,6 @@
+pyserial
+numpy
+pandas
+scipy
+matplotlib
+pynput
